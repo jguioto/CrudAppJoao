@@ -1,3 +1,6 @@
+using CrudAppJoao.Data;
+using Microsoft.EntityFrame
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
